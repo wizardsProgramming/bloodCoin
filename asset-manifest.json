@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bloodCoin/static/css/main.e6c13ad2.css",
+    "main.js": "/bloodCoin/static/js/main.8f90a219.js",
+    "index.html": "/bloodCoin/index.html",
+    "main.e6c13ad2.css.map": "/bloodCoin/static/css/main.e6c13ad2.css.map",
+    "main.8f90a219.js.map": "/bloodCoin/static/js/main.8f90a219.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8f90a219.js"
+  ]
+}
